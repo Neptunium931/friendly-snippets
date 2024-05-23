@@ -229,7 +229,8 @@
                     "javascriptreact",
                     "htmldjango",
                     "astro",
-		    "blade"
+		            "blade",
+                    "edge"
                 ],
                 "path": "./snippets/html.json"
             },
@@ -571,6 +572,10 @@
             {
                  "language": "rst",
                  "path": "./snippets/rst.json"
+            },
+            {
+                "language": "edge",
+                "path": "./snippets/edge.json"
             }
         ]
     }
