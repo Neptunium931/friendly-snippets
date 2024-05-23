@@ -576,6 +576,10 @@
             {
                 "language": "edge",
                 "path": "./snippets/edge.json"
+            },
+            {
+                "language": "edge",
+                "path": "./snippets/html.json"
             }
         ]
     }
